@@ -1,1 +1,3 @@
+Note: I decided to take a break from these problems and instead do them every once in a while instead of everyday. The daily pressure of doing leetcode has taken a bad toll on my mental health and has made me more focused on just finding the solution and uploading it (kinda like a chore), instead of actually taking my time and educating myself on the problem by solving it myself. I will continue these problems but less consistently.
+----------------------------
 This Github repository contains all of the Leetcode problems I have solved, I store them here for easy access and use Github as a streak tracker in order to remain consistent honing my skills as a developer.
